@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B159076F-2541-4A9B-B518-1387C22FF8F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CE1E27A-ACE4-463E-A593-706C7E1ADA14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Catalogue/Helpers/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "request(modelType:urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F5509E5-6496-4786-899F-2EEF26E5355C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Catalogue/Helpers/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "request(modelType:urlString:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA8F41E4-D380-4989-AD1A-A48D94F7931F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Catalogue/Helpers/APIManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "request(modelType:urlString:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA8F41E4-D380-4989-AD1A-A48D94F7931F - 82cf0d20e1d72860"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Catalogue.APIManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(modelType: &#x3c4;_0_0.Type, urlString: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, Movie_Catalogue.DataError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Movie Catalogue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Neosoft1/Desktop/Movie%20Catalogue/Movie%20Catalogue/Movie%20Catalogue/Helpers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "465">
+               </Location>
+               <Location
+                  uuid = "DA8F41E4-D380-4989-AD1A-A48D94F7931F - 4bb4413bfe51a635"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Movie_Catalogue.APIManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(modelType: &#x3c4;_0_0.Type, urlString: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, Movie_Catalogue.DataError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Movie Catalogue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Neosoft1/Desktop/Movie%20Catalogue/Movie%20Catalogue/Movie%20Catalogue/Helpers/APIManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "394">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
